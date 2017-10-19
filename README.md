@@ -3,9 +3,7 @@ learn to program
 <!DOCTYPE html>
 <html>
 <head>
-<title>
-First HTML Document
-</title>
+
 </head>
 <body>
 <h1>
